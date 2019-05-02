@@ -11,7 +11,7 @@ The function of the robot is to move around a square carpeted area with a side l
 
 The competition had some other ways to score points such as leaving the home base, going in circles (orbits) around the center structure, and raising a flag.  There is a penalty to colliding with the flashing lights (spacetels).  Table 1 displays a summary of the scoring methods.  
 
-<img src="Images/Field%20Testing/scoring.png"  width="400px"/>
+<img src="Images/Field%20Testing/scoring.PNG"  width="400px"/>
 
 **Table 1:** Summary of scoring methods
 
